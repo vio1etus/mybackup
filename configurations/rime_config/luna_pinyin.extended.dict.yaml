@@ -1,0 +1,19 @@
+---
+name: luna_pinyin.extended
+version: "2015.12.02"
+sort: by_weight
+use_preset_vocabulary: true
+import_tables:
+  - luna_pinyin.xiandaihanyuchangyongcibiao
+  - luna_pinyin.english
+  - luna_pinyin.cn_en
+  - luna_pinyin.programming_sec
+  - luna_pinyin
+  - luna_pinyin.ai
+  - luna_pinyin.name
+  - luna_pinyin.daily
+  - luna_pinyin.chengyusuyu
+  - luna_pinyin.wangluoliuxingxinci
+  - luna_pinyin.blockchain
+  - luna_pinyin.sogou
+...
