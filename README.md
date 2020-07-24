@@ -1,2 +1,2 @@
 # mybackup
-backup goods manuals and configurations and something else
+backup goods manuals, configurations and usefuls scripts, etc.
